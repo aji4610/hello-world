@@ -1,2 +1,7 @@
 # hello-world
-Hello world by ajit
+
+Python code
+Import detetime
+x=datetime.datetime.now()
+print(x)
+
